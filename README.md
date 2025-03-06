@@ -15,6 +15,8 @@ Main() displays a menu with the following options:
   
 Based on user input, it'll call the corresponding method to handle that operation.
 
+Will assume that option 3, by printing the size of the database, it means printing the size of it in bytes.
+
 ### Methods
 **printAllRecords:**
 - Prints all records currently stored in the database.
