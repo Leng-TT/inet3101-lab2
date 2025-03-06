@@ -13,7 +13,7 @@ Main() displays a menu with the following options:
 5. Delete last record
 6. Exit
   
-Based on user input, it'll call the corresponding function to handle that operation.
+Based on user input, it'll call the corresponding method to handle that operation.
 
 ### Methods
 **printAllRecords:**
